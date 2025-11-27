@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/widgets/margin_widget.dart';
+import 'widgets/margin_widget.dart';
 //import 'package:flutter_widgets/widgets/network_widget.dart';
 //import 'package:flutter_widgets/widgets/paddding_widget.dart';
 //import 'package:flutter_widgets/widgets/row_widget.dart';
